@@ -1,0 +1,24 @@
+#common
+.git
+**/*.DS_Store
+**/*.ipynb_checkpoints/
+**/__pycache__
+**/*.egg-info
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.coverage*
+venv/
+output/
+notebooks/
+data/
+journal/
+README.md
+LICENSE
+
+# VSCode
+.devcontainer
+.devcontainer/
+
+# Reports
+.reports/
